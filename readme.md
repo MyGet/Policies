@@ -1,5 +1,4 @@
 # MyGet Policies
-==============
 
 This repository provides a transparent history of the below MyGet policies.
 The `master` branch represents the currently applicable policies.
