@@ -1,3 +1,7 @@
+# MyGet Privacy Policy
+
+This document was last updated on: May 22, 2018
+
 **Your privacy is critically important to us!**
 
 At MyGet we have a few fundamental principles:
@@ -10,7 +14,7 @@ At MyGet we have a few fundamental principles:
 
 Below is our privacy policy which incorporates these goals.
 
-# Who We Are and What This Policy Covers
+## Who We Are and What This Policy Covers
 
 We are the folks behind MyGet, the best-in-class package management platform, proudly made in Belgium, Europe. Our mission is to democratize software artifact publishing. We believe in empowering software developers with the tools and services they need to continuously deliver and distribute value faster and more secure.
 
@@ -25,13 +29,13 @@ Throughout this Privacy Policy we'll refer to our website and other products and
 
 Below we explain how we collect, use and share information about you, along with the choices that you have with respect to that information.
 
-# Information We Collect
+## Information We Collect
 
 MyGet only collects information about you if we have a reason to do so – for example, to provide our Services, to communicate with you, or to make our Services better.
 
 We collect information in three ways: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let's go over the information we collect.
 
-## Information You Provide to Us
+### Information You Provide to Us
 
 It's probably no surprise that we collect information that you provide to us. The amount and type of information depends on the context and how we use the information. Here are some examples:
 
@@ -41,7 +45,7 @@ It's probably no surprise that we collect information that you provide to us. Th
 - **Credentials:** Depending on the Services you use, you may provide us with credentials for your MyGet or third-party accounts. Wherever possible, MyGet will favor the use of temporary access tokens to securely interact with third-party services, and the user has the ability to revoke access to those third-party accounts at any time.
 - **Communications With Us:** You may also provide us information when you respond to surveys, communicate with us about a support question, or post a question about your MyGet account in our public forums.
 
-## Information We Collect Automatically
+### Information We Collect Automatically
 
 We also collect some information automatically:
 
@@ -50,13 +54,13 @@ We also collect some information automatically:
 - **Location Information:** We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions.
 - **Information from Cookies &amp; Other Technologies:** A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. MyGet uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness. For more information about our use of cookies and other technologies for tracking, including how you can control the use of cookies, please see our Cookie Policy.
 
-## Information We Collect from Other Sources
+### Information We Collect from Other Sources
 
 We may also get information about you from other sources. For example, if you create or log into your MyGet account through another service (like GitHub or Microsoft Azure Marketplace) or if you connect your MyGet account to a third-party Identity Provider (like Google or Microsoft Account), we will receive information from that service (such as your username and basic profile information) via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available.
 
-# How and Why We Use Information
+## How and Why We Use Information
 
-## Purposes for Using Information
+### Purposes for Using Information
 
 We use information about you as mentioned above and for the purposes listed below:
 
@@ -68,7 +72,7 @@ We use information about you as mentioned above and for the purposes listed belo
 - To communicate with you, for example through an email, about offers and promotions offered by MyGet, solicit your feedback, or keep you up to date on MyGet and our Services; and
 - To personalize your experience using our Services, target our newsletters to groups of our users (for example, those who have a particular plan with us or have been a user for a certain length of time).
 
-## Legal Bases for Collecting and Using Information
+### Legal Bases for Collecting and Using Information
 
 A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that:
 
@@ -78,9 +82,9 @@ A note here for those in the European Union about our legal grounds for processi
 4. We have a legitimate interest in using your information – for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our newsletters, and better understand user retention and attrition, to monitor and prevent any problems with our Services, and to personalize your experience; or
 5. You have given us your consent – for example before we place certain cookies on your device and access and analyze them later on, as described in our Cookie Policy.
 
-# Sharing Information
+## Sharing Information
 
-## How We Share Information
+### How We Share Information
 
 **We do not sell our users' private personal information.**
 
@@ -96,7 +100,7 @@ We share information about you in the limited circumstances spelled out below an
 - **Other Account Owners:** If you have a MyGet account on a MyGet Enterprise Subscription Plan and interact with our Services, your IP address and the email address associated with your MyGet account may be shared with the MyGet Enterprise tenant administrator(s), for example through audit logs.
 - **Published Support Requests:** And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request, stripped from any personally identifiable information, in order to help us clarify or respond to your request or to help us support other users.
 
-## Information Shared Publicly
+### Information Shared Publicly
 
 Information that you choose to make public is – you guessed it – disclosed publicly.
 
@@ -106,7 +110,7 @@ Public information may also be indexed by search engines or used by third partie
 
 Please keep all of this in mind when deciding what you would like to share.
 
-# How Long We Keep Information
+## How Long We Keep Information
 
 We generally discard information about you when we no longer need the information for the purposes for which we collect and use it – which are described in the section above on How and Why We Use Information – and we are not legally required to continue to keep it.
 
@@ -116,13 +120,13 @@ As another example, when you delete a package from your MyGet account, the delet
 
 If you would like to close your MyGet account, you may do so by contacting [MyGet Support](https://www.myget.org/Support). For Regular MyGet Subscriptions, we will only retain and use the personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements (e.g., audit data may be retained longer for the benefit of applicable customers, as its purpose is to track data modifications), but barring legal requirements, we will delete your full profile (within reason) and all user content posted to our services within 30 days. For MyGet Enterprise customers, barring legal requirements, we delete any and all data upon request.
 
-# Security
+## Security
 
 While no online service is 100% secure, we work very hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so, such as monitoring our Services for potential vulnerabilities and attacks.
 
 To enhance the security of your account, we encourage you to enable Two-Step Authentication on any third-party Identity Provider you may use to authenticate against our Services.
 
-# Choices
+## Choices
 
 You have several choices available when it comes to information about you:
 
@@ -131,7 +135,7 @@ You have several choices available when it comes to information about you:
 - **Set Your Browser to Reject Cookies:** We work on making MyGet services respond to "do not track" signals. However, you can usually choose to set your browser to remove or reject browser cookies before using MyGet's websites, with the drawback that certain features of MyGet's websites may not function properly without the aid of cookies.
 - **Close Your Account:** While we'd be very sad to see you go, if you no longer want to use our Services, you can close your MyGet account. Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above – for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcements requests, or reasonably needed for our legitimate business interests.
 
-# Your Rights
+## Your Rights
 
 If you are located in certain countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the "GDPR"), data protection laws give you rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
 
@@ -145,7 +149,7 @@ You can usually access, correct, or delete your personal data using your account
 
 EU individuals also have the right to make a complaint to a government supervisory authority.
 
-# Controllers and Responsible Companies
+## Controllers and Responsible Companies
 
 MyGet's Services are worldwide. TechTomato BVBA, the company behind MyGet, is the controller (or co-controller) of personal information, which means that they are the company responsible for processing that information.
 
@@ -159,13 +163,13 @@ Biartlei 107
 
 Belgium
 
-# How to Reach Us
+## How to Reach Us
 
 If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us via an email to [support@myget.org](mailto:support@myget.org?subject=Privacy).
 
-# Other Things You Should Know
+## Other Things You Should Know
 
-## Transferring Information
+### Transferring Information
 
 Because MyGet's Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, or third-party data processors. This is required for the purposes listed in the How and Why We Use Information section above. When providing information about you to entities outside the EEA, we will take appropriate measures to ensure that the recipient protects your personal information adequately in accordance with this Privacy Policy as required by applicable law. These measures include:
 
@@ -174,6 +178,6 @@ Because MyGet's Services are offered worldwide, the information about you that w
 
 You can ask us for more information about the steps we take to protect your personal information when transferring it from the EU.
 
-# Changes to our Privacy Policy
+## Changes to our Privacy Policy
 
 Although most changes are likely to be minor, MyGet may change its Privacy Policy from time to time. We will provide notification to Users of material changes to this Privacy Policy through our website at least 30 days prior to the change taking effect by posting a notice on our home page or sending to the email address specified in your MyGet account. For changes to this Privacy Policy that do not affect your rights, we encourage visitors to check this Privacy Policy frequently.

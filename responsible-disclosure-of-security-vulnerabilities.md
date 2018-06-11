@@ -1,4 +1,6 @@
-**Responsible Disclosure of Security Vulnerabilities**
+# MyGet Responsible Disclosure of Security Vulnerabilities
+
+This document was last updated on: February 25, 2018
 
 This document describes MyGet's policy towards Responsible Disclosure of Vulnerabilities.
 
@@ -6,7 +8,7 @@ MyGet does not run a bounty program and does not provide a monetary reward. Howe
 
 MyGet Security contact info: [security@myget.org](mailto:security@myget.org?subject=%5BSecurity%5D%20Question%20about%20Responsible%20Disclosure%20of%20Vulnerabilities)
 
-# Rules for you
+## Rules for you
 
 - Don't attempt to gain access to another user's account or data.
 - Don't perform any attack that could harm the reliability/integrity of our services or data. DDoS/spam attacks are **NOT** allowed.
@@ -17,13 +19,13 @@ MyGet Security contact info: [security@myget.org](mailto:security@myget.org?subj
 - Never attempt non-technical attacks such as social engineering, phishing, or physical attacks against our employees, users, or infrastructure.
 - When in doubt, [contact us](mailto:security@myget.org?subject=%5BSecurity%5D%20Question%20about%20Responsible%20Disclosure%20of%20Vulnerabilities).
 
-# Rules for us
+## Rules for us
 
 - We will respond as quickly as possible to your submission.
 - We will keep you updated as we work to fix the bug you submitted.
 - We will not take legal action against you if you play by the rules.
 
-# What does not qualify?
+## What does not qualify?
 
 - Bugs that don't affect the latest version of modern browsers (Chrome, Firefox, Edge, Safari). Bugs related to browser extensions are also out of scope.
 - Bugs requiring exceedingly unlikely user interaction.
@@ -35,9 +37,9 @@ MyGet Security contact info: [security@myget.org](mailto:security@myget.org?subj
 - Scripting or other automation and brute forcing of intended functionality.
 - When in doubt, [contact us](mailto:security@myget.org?subject=%5BSecurity%5D%20Question%20about%20Responsible%20Disclosure%20of%20Vulnerabilities).
 
-# Ineligible vulnerabilities
+## Ineligible vulnerabilities
 
-## Impersonating a user through Personal Access Token
+### Impersonating a user through Personal Access Token
 
 MyGet implements various package management protocols that may require the use of a Personal Access Token, oftentimes also referred to as 'API key', or just 'access token'. An example protocol that requires such token is the NuGet package push API.
 
@@ -51,9 +53,9 @@ However, MyGet takes security very seriously and will take corrective measure as
 
 If you encounter a situation like this, do [contact us](mailto:security@myget.org?subject=%5BSecurity%5D%20%5BHigh%20Priority%5D%20Leaked%20access%20token) with high priority!
 
-# FAQ
+## FAQ
 
-## Am I eligible for some kind of bug bounty?
+### Am I eligible for some kind of bug bounty?
 
 No. A sincere "thank you" is all we can give. **MyGet does not run a bug bounty program** and by default does not provide any bounty rewards. MyGet also does not provide any commitment in terms of such rewards.
 
@@ -61,6 +63,6 @@ This document merely describes MyGet's policy towards Responsible Disclosure of 
 
 In the exceptional case a reward is granted, note that if you're under the age of 18 and live in the United States, you will need to submit a guardian consent form before any payment can be made. Individuals under 13 years of age are not eligible to participate due to U.S. federal law.
 
-## I reported a vulnerability but have not received a response!
+### I reported a vulnerability but have not received a response!
 
 Please allow up to 24 hours for an initial response. Also realize that spam filters and email in general can sometimes be problematic. If you ever feel we are not communicating in a timely fashion, definitely let us know.

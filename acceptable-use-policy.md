@@ -1,5 +1,7 @@
 # MyGet Acceptable Use Policy
 
+This document was last updated on: June 6, 2018
+
 MyGet has adopted a philosophy that assumes the honesty and good intent of our Subscribers, therefore  our services are provided in as unrestricted a manner as possible to allow our users to have the richest Service experience possible.
 
 This Acceptable Use Policy ("AUP") must be read in conjunction with our applicable [Terms of Service](https://www.myget.org/policies/terms) and [Privacy Policy](https://www.myget.org/policies/privacy), and may be subject to change from time to time.
