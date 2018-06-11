@@ -1,5 +1,7 @@
 **Your privacy is critically important to us!**
 
+This document was last updated on: May 22, 2018
+
 At MyGet we have a few fundamental principles:
 
 - We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.

@@ -1,3 +1,7 @@
+**MyGet Terms of Service**
+
+This document was last updated on: April 21, 2017
+
 # IMPORTANT! READ CAREFULLY
 
 This License Agreement contains the terms and conditions that govern your access to and use of the Service and Software (as defined below) and is an agreement between MyGet and you or the legal entity you represent ("Subscriber" as defined below). You represent to MyGet that you are lawfully able to enter into contracts. If you are entering into this Agreement for an entity, such as the company you work for, you represent to MyGet that you have legal authority to bind that entity. Please see section "Definition" for definitions of certain capitalized terms used in this Agreement.

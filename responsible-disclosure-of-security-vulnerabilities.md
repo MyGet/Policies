@@ -6,6 +6,8 @@ MyGet does not run a bounty program and does not provide a monetary reward. Howe
 
 MyGet Security contact info: [security@myget.org](mailto:security@myget.org?subject=%5BSecurity%5D%20Question%20about%20Responsible%20Disclosure%20of%20Vulnerabilities)
 
+This document was last updated on: February 25, 2018
+
 # Rules for you
 
 - Don't attempt to gain access to another user's account or data.

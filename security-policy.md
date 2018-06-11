@@ -6,6 +6,8 @@ This enables you to be confident that your intellectual property and any persona
 
 MyGet Security contact info: [security@myget.org](mailto:security@myget.org)
 
+This document was last updated on: September 1, 2017
+
 # Information Security Organization
 
 ## High-level description of the service
