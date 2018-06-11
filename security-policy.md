@@ -4,7 +4,7 @@ This document describes the MyGet security policies.
 
 This enables you to be confident that your intellectual property and any personal or customer data will be well protected in our service in compliance with industry standards and regulatory requirements.
 
-MyGet Security contact info: [info@myget.org](mailto:info@myget.org)
+MyGet Security contact info: [security@myget.org](mailto:security@myget.org)
 
 # Information Security Organization
 
