@@ -8,7 +8,7 @@ This License Agreement contains the terms and conditions that govern your access
 
 **IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU CANNOT USE OUR SERVICE AND SOFTWARE.**
 
-## DEFINITIONS
+## 1. DEFINITIONS
 
 Any reference in this agreement to "day" will be a calendar day.
 
@@ -42,7 +42,7 @@ Any reference in this agreement to "day" will be a calendar day.
 
 "Contributor" means a User who can publish or manage Subscriber's Data to any MyGet Service as part of the Subscription Plan.
 
-## SUBSCRIBERS' RESPONSIBILITIES
+## 2. SUBSCRIBERS' RESPONSIBILITIES
 
 (a) Subscriber agrees to:
 
@@ -67,7 +67,7 @@ Any reference in this agreement to "day" will be a calendar day.
     (v) the confidentiality and use of Subscriber's URL, any Subscriber's Data, passwords and user names by Users;
     (vi) Subscriber's Data backup when using Service with a storage account that is not owned or provided by MyGet.
 
-## MYGET RESPONSIBILITIES
+## 3. MYGET RESPONSIBILITIES
 
 (a) If Subscriber has subscribed for using Service on MyGet Site, MyGet will provide Subscriber with a URL and other details required for using the Service.
 
@@ -79,11 +79,11 @@ Any reference in this agreement to "day" will be a calendar day.
     (ii) Hosting System failures, including Internet software provider failures or delays, or;
     (iii) any unavailability caused by circumstances beyond MyGet's reasonable control (force majeure).
 
-## SUBSCRIPTIONS FOR USING THE SERVICE
+## 4. SUBSCRIPTIONS FOR USING THE SERVICE
 
 Subscription for using the Service in accordance with the obtained Subscription Plan shall be the period of one (1) month, three (3) months, six (6) months, or one (1) year as chosen by Subscriber when subscribing for using the Service on MyGet Site. Service subscription term shall commence on the subscription start date and continue for the subscription term specified in the Subscription Confirmation. Except as otherwise specified in the Subscription Confirmation, Service subscription shall automatically prolong for the additional period equal to the current Service subscription term, unless either party gives the other notice of non-renewal at least 30 days before expiration of the current Subscription term.
 
-## FREE TRIAL
+## 5. FREE TRIAL
 
 (a) Subject to the terms of this Agreement, Subscriber is granted the right to use the Service for evaluation purposes free of charge for a specific period from the date of registration on MyGet Site, unless otherwise specified by MyGet in the trial Subscription Confirmation ("Trial Period"). For a Regular Subscription Plan, the trial period is fourteen (14) days, unless otherwise specified by MyGet. For an Enterprise Subscription Plan, the trial period is thirty (30) days, unless otherwise specified by MyGet.
 
@@ -96,7 +96,7 @@ MyGet will make Service available to Subscriber on a trial basis until the earli
 
 (c) MYGET DOESN'T WARRANT THAT ANY SUBSCRIBER' DATA ENTERED BY SUBSCRIBER DURING TRIAL PERIOD AND ANY CUSTOMIZATIONS MADE TO THE SERVICE BY OR FOR SUBSCRIBER DURING FREE TRIAL WILL BE STORED OR AVAILABLE UPON EXPIRATION OF TRIAL PERIOD, UNLESS SUBSCRIBER OBTAINS APPROPRIATE SUBSCRIPTION PLAN TO CONTINUE USING THE SERVICE. Subscriber is responsible for taking measures to prevent Subscriber's Data loss or damage upon expiration of Trial Period.
 
-## FEES AND PAYMENTS
+## 6. FEES AND PAYMENTS
 
 (a) Fees for using the Service shall be as set forth on MyGet Site. If applicable to the Subscription Plan obtained by Subscriber, MyGet will charge Subscriber for using Service on the basis of monthly or yearly subscriptions for using the Service and pursuant to payment terms published on MyGet Site. All amounts payable to MyGet will be paid by Subscriber without setoff or counterclaim, and without any deduction or withholding. MyGet may charge Subscriber interest at the rate of 1.5% per month (or the highest rate permitted by law, if less) on all late payments.
 
@@ -109,7 +109,7 @@ MyGet will make Service available to Subscriber on a trial basis until the earli
 
 (d) Subscriber will reimburse MyGet any additional costs incurred by MyGet to collect any late payment for using the Service by Subscriber and resulting from Subscriber's breach of this Section 6.
 
-## OWNERSHIP
+## 7. OWNERSHIP
 
 (a) MyGet retains ownership of all proprietary rights in the Service and the Software associated or displayed with the Service, and in all related trade names, trademarks and service marks.
 
@@ -117,7 +117,7 @@ MyGet will make Service available to Subscriber on a trial basis until the earli
 
 (c) Subscriber grants MyGet a royalty-free, worldwide, irrevocable, perpetual license to use and incorporate into the Service any suggestions, enhancement requests, recommendations or other feedback provided by Subscriber and its Users in regards to the Service or the Software.
 
-## INDEMNIFICATION
+## 8. INDEMNIFICATION
 
 (a) Subscriber will defend, indemnify, and hold harmless MyGet, its affiliates, and each of their respective employees, officers, directors, and representatives from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to any third party claim concerning:
 
@@ -131,11 +131,11 @@ MyGet will make Service available to Subscriber on a trial basis until the earli
     (i) use counsel of Subscriber's own choosing (subject to MyGet's written consent) to defend against any claim; and
     (ii) settle the claim as Subscriber deem appropriate, provided that Subscriber obtains prior written consent from MyGet before entering into any settlement. MyGet may also assume control of the defense and settlement of the claim at any time.
 
-## DISCLAIMER
+## 9. DISCLAIMER
 
 SERVICE AND THE ASSOCIATED SOFTWARE ARE PROVIDED "AS IS". MYGET MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE REGARDING THE SERVICE AND/OR SOFTWARE, INCLUDING ANY WARRANTY THAT THE SERVICE AND/OR SOFTWARE WILL BE UNINTERRUPTED, ERROR FREE OR FREE OF HARMFUL COMPONENTS, OR THAT ANY CONTENT, INCLUDING SUBSCRIBER'S DATA, WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED. EXCEPT TO THE EXTENT PROHIBITED BY LAW, MYGET DISCLAIM ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF TRADE.
 
-## LIMITATIONS OF LIABILITY
+## 10. LIMITATIONS OF LIABILITY
 
 (a) MYGET WILL NOT BE LIABLE TO SUBSCRIBER FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES (INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, OR DATA), EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. FURTHER, MYGET WILL NOT BE RESPONSIBLE FOR ANY COMPENSATION, REIMBURSEMENT, OR DAMAGES ARISING IN CONNECTION WITH:
 
@@ -150,7 +150,7 @@ SERVICE AND THE ASSOCIATED SOFTWARE ARE PROVIDED "AS IS". MYGET MAKES NO REPRESE
 
 (c) MyGet will not be liable for any delay or failure to perform any obligation under this Agreement where the delay or failure results from any cause beyond our reasonable control, including acts of God, labor disputes or other industrial disturbances, systemic electrical, telecommunications, or other utility failures, earthquake, storms or other elements of nature, blockages, embargoes, riots, acts or orders of government, acts of terrorism, or war.
 
-## TEMPORARY SUSPENSION
+## 11. TEMPORARY SUSPENSION
 
 MyGet may suspend Subscriber's right to use the Service or any portion of the Service immediately upon a notice to Subscriber if MyGet determines that:
 
@@ -158,7 +158,7 @@ MyGet may suspend Subscriber's right to use the Service or any portion of the Se
     (ii) Subscriber does not comply with payment obligations under Section 6 of this Agreement; or
     (iii) Subscriber have ceased to operate in the ordinary course, made an assignment for the benefit of creditors or similar disposition of Subscriber's assets, or become the subject of any bankruptcy, reorganization, liquidation, dissolution or similar proceeding.
 
-## TERM AND TERMINATION
+## 12. TERM AND TERMINATION
 
 (a) This Agreement takes effect when Subscriber creates an account on MyGet Site (the "Effective Date") and shall continue until terminated by either party as provided herein.
 
@@ -173,13 +173,13 @@ MyGet may suspend Subscriber's right to use the Service or any portion of the Se
 
 (e) MyGet agrees to store Subscriber's Data and make it available to Subscriber for export during the 3-months period after the Agreement termination date. Upon expiration of such 3-months period, MyGet will have no obligation to store or make available to Subscriber any of Subscriber's Data and, unless legally prohibited, will have the right to remove Subscriber's Data from Hosting System.
 
-## NOTICES
+## 13. NOTICES
 
 (a) MyGet may provide any notice to Subscriber under this Agreement by posting a notice on the MyGet Site or sending a message to Subscriber's email address. Notices that MyGet provides by posting on the MyGet Site will be effective upon posting and notices MyGet provides by email will be effective when MyGet sends the email message. It is Subscriber's responsibility to keep Subscriber's email address current.
 
 (b) To give MyGet any notice under this Agreement, Subscriber shall contact MyGet by email at sales@myget.org, or by personal delivery, overnight courier or registered or certified mail to MyGet as specified in this Agreement. MyGet may update the address or email for notices to MyGet by posting a notice on MyGet Site. Notices provided by personal delivery will be effective immediately. Notices provided by overnight courier will be effective one business day after they are sent. Notices provided by registered or certified mail will be effective three business days after they are sent. Notices provided by email will be effective next business day after they are sent.
 
-## CLOSING PROVISIONS
+## 14. CLOSING PROVISIONS
 
 (a) Subscriber agrees to be identified as a customer of MyGet and that MyGet may refer to Subscriber by name, trade name and trademark, if applicable and may briefly describe Subscriber's business in MyGet marketing materials, on MyGet Site, in public or legal documents. Subscriber hereby grants MyGet a license to use Subscriber's name and any of Subscriber's trade names and trademarks solely pursuant to this marketing section. MyGet will not publish Subscriber name, trade name or trademark on MyGet Site without prior written confirmation of Subscriber. When using Enterprise Subscription Plan, Subscriber agrees to the use of Subscriber name, trade name or trademark in the site header and text of Subscriber dedicated environment on MyGet Site.
 
