@@ -1,6 +1,6 @@
 # MyGet Security Policies
 
-This document was last updated on: September 1, 2017
+This document was last updated on: August 28, 2018
 
 This document describes the MyGet security policies.
 
@@ -300,9 +300,11 @@ The MyGet service offering does not currently include the sending of email commu
 
 MyGet is not required to store any Customer Certificates on its servers as part of the service offering.
 
-### SAML-based Federated Authentication
+### Authentication Modules
 
-MyGet supports SAML-based Federated Authentication. An API for provisioning is not yet publicly documented but can be made available upon request.
+MyGet supports several modules, described in [our documentation](http://docs.myget.org/docs/reference/authentication-modules). These authentication modules are built on a federated authentication model.
+
+An API for provisioning MyGet user profiles is not yet publicly documented but can be made available upon request.
 
 ### Data Exchange over SFTP
 
