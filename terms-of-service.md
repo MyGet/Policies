@@ -1,7 +1,7 @@
 # MyGet Terms of Service
 
 
-These MyGet Service Terms (these "**Service Terms**") are between Assembla, Inc. doing business as MyGet, ("**MyGet**") and the person who submits an Order for MyGet’s services on the MyGet Site or who signs an Order that incorporates these terms by reference to the URL where these Service Terms are posted ("**you**").
+These MyGet Service Terms (these "**Service Terms**") are between Assembla, Inc. doing business as MyGet, ("**MyGet**") and the person who submits an Order for MyGet&rsquo;s services on the MyGet Site or who signs an Order that incorporates these terms by reference to the URL where these Service Terms are posted ("**you**").
 Capitalized words in these Service Terms have special meanings as stated in the section where they are first used, or as defined in __Section 9__ (*Definitions*).
 
 MyGet may modify these Services Terms at any time, but modifications are not effective for Orders that are in place prior to the modification until the Order renews or you add new services to your account. See the __Section 8.22__ (*Changes to Online Service Terms*).
